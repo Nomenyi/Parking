@@ -1,0 +1,67 @@
+.fa-parking {
+    font-size: 100px;
+    margin-top: 8%;
+    margin-bottom: 5%;
+    color: white;
+}
+
+.find {
+    background-color: #379194;
+    width: 50%;
+    height: 450px;
+    text-align: center;
+    margin-top: 20%;
+    margin-left: 25%;
+    border-radius: 10%;
+}
+
+.titre {
+    font-weight: bold;
+    margin-bottom: 8%;
+}
+
+label {
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+}
+
+input {
+    width: 50%;
+    height: 50px;
+}
+
+input[type="number"] {
+    margin-bottom: 5%;
+    font-weight: bold;
+    font-size: 15px;
+    -moz-appearance: textfield;
+    color: #379194;
+}
+
+input[type="submit"] {
+    margin-bottom: 5%;
+    font-size: 25px;
+    font-weight: bold;
+    color: #379194;
+}
+
+.error {
+    text-align: center;
+    background-color: #379194;
+    color: #ad1e1e;
+    font-size: 15px;
+    margin-top: 5%;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.success {
+    text-align: center;
+    background-color: #379194;
+    color: white;
+    font-size: 15px;
+    margin-top: 5%;
+    width: 60%;
+    margin-left: 20%;
+}
